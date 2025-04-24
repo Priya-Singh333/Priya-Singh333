@@ -9,14 +9,14 @@ My passion has always been to work with technology and I am committed to learnin
 ## 💻 About Me
 
 - 🎯 **Specialization**: Java, Spring Boot, Microservices
-- 🏢 **Current Role**: Software Developer at **Aurionpro Solutions Limited** (Developing scalable solutions, working with microservices, and enhancing reporting systems)
+- 🏢 **Current Role**: Software Developer at **Aurionpro Solutions Limited** (Developing scalable solutions, working with backend (SprinBoot and microservices) and frontend Angular.)
 - 🔧 **Core Skills**: Problem-solving, Java development, Spring Boot, Microservices, SQL optimization, and RESTful services.
 
 ---
 
 ## 🏆 Career Goals
 
-Actively seeking **Senior Software Engineer** roles where I can contribute my **backend development** expertise and grow with innovative teams.
+Actively seeking **Senior Software Engineer** roles where I can contribute my **development** expertise and grow with innovative teams.
 
 ---
 
